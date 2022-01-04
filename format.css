@@ -1,0 +1,21 @@
+h1{
+    color:red;
+    text-decoration: blue underline;
+}
+.main-div{
+    border: blue solid 3px;
+    display: flex;
+    justify-content: space-between ;
+}
+.first-div{
+    border:chartreuse solid 3px;
+    flex-basis:20%;
+}
+.second-div{
+    border:orangered solid 3px;
+    flex-basis:60%;
+}
+.third-div{
+    border:hotpink solid 3px;
+    flex-basis:20%;
+}
